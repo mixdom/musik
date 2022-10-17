@@ -3,7 +3,7 @@ layout: post
 category: Search My Name
 title: Search My Name - Baby Sitter
 tagline: by MixDom
-tags: [ Ciledug, Tangerang ]
+tags: Ciledug, Tangerang
 ---
 
 <audio class='js-player' style="--plyr-color-main: #212121;" controls>
