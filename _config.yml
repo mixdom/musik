@@ -5,9 +5,9 @@
 
 # Site
 title: MixDom
-subtitle: mixdom
-description: Too simple, sometimes naive.
-author: Simpleyyt
+subtitle: Random Music
+description: Music in My Heart
+author: MixDom
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: id
 date_format: '%Y-%m-%d'
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT, simpleyyt, yitao"
 rss:
 
 # Specify the date when the site was setup
-since: 2015
+since: 2022
 
 # icon between year and author @Footer
 authoricon: heart
