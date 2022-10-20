@@ -31,13 +31,13 @@ body{
 	  animation: type .5s alternate infinite;
 }
 
-a {
+.fof a {
   color: #18272F;
   position: relative;
   text-decoration: none;
 }
 
-a::before {
+.fof a::before {
   content: '';
   position: absolute;
   width: 100%;
@@ -51,7 +51,7 @@ a::before {
   transition: transform .3s ease-in-out;
 }
 
-a:hover::before {
+.fof a:hover::before {
   transform-origin: left;
   transform: scaleX(1);
 }
