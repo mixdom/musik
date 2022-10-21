@@ -214,8 +214,8 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/simpleyyt
-  知乎: http://www.zhihu.com/people/yaoyit
+  GitHub: https://github.com/mixdom
+  知乎: 
 
 
 # Social Links Icons
@@ -234,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/author.jpeg
+avatar: /assets/images/MixDom_Logo.png
 
 
 # Table Of Contents in the Sidebar
@@ -374,7 +374,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 70b7e141dfc0ea2b204682f94ab2e01a
+baidu_analytics: 
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -382,7 +382,7 @@ baidu_analytics: 70b7e141dfc0ea2b204682f94ab2e01a
 # Disqus
 disqus:
   enable: true
-  shortname: simpleyyt
+  shortname: onanion
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -460,10 +460,10 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification: hxyd6b4vb-uzYY6dVuzz4KXhScoVoEUjtiRWYSJVlrY
+google_site_verification: 
 
 # Google Analytics
-google_analytics: UA-67994495-1
+google_analytics: 
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
