@@ -18,4 +18,51 @@ tags: [ Pop Punk, Punk, Rock ]
 </a>
 </div>
 
-ciledug, tanggerang
+table>
+<tr>
+<th>Informasi</th>
+<th></th>
+</tr>
+<tr>
+<td>Artis</td>
+<td>Search My Name</td>
+</tr>
+<tr>
+<td>Judul</td>
+<td>Telah Hilang (feat. Bima Efrizal) (New Acoustic Version)</td>
+</tr>
+<tr>
+<td>Genre</td>
+<td>Pop Punk, Punk, Rock</td>
+</tr>
+<tr>
+<td>Asal</td>
+<td>Ciledug, Tangerang</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Tersedia di</th>
+</tr>
+<tr>
+<td><a href="https://youtube.com/watch?v=JnNWbwn7oD8" target="_blank">Youtube</a></td>
+</tr>
+<tr>
+<td><a href="https://music.apple.com/us/album/telah-hilang-feat-bima-efrizal-acoustic-single/1648786677?i=1648786680" target="_blank">Apple Music</a></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Media sosial</th>
+</tr>
+<tr>
+<td><a href="https://facebook.com/SearchMyName2008" target="_blank">Facebook</a></td>
+</tr>
+<tr>
+<td><a href="https://www.instagram.com/searchmynamepunk" target="_blank">Instagram</a></td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/SMNtwitt" target="_blank">Twitter</a></td>
+</tr>
