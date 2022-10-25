@@ -17,3 +17,30 @@ tags: [ Pop Punk, Punk, Rock ]
 <i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
 </a>
 </div>
+
+<table>
+<tr>
+<th>Tersedia di</th>
+</tr>
+<tr>
+<td><a href="https://www.reverbnation.com/searchmynamepoppunk">Reverbnation</a></td>
+</tr>
+<tr>
+<td><a href="https://myspace.com/searchmynamepunk">Myspace</a></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Media sosial</th>
+</tr>
+<tr>
+<td><a href="https://facebook.com/SearchMyName2008">Facebook</a></td>
+</tr>
+<tr>
+<td><a href="https://www.instagram.com/searchmynamepunk/">Instagram</a></td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/SMNtwitt">Twitter</a></td>
+</tr>
+</table>
