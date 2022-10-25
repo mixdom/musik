@@ -18,7 +18,7 @@ tags: [ Pop Punk, Punk, Rock ]
 </a>
 </div>
 
-table>
+<table>
 <tr>
 <th>Informasi</th>
 <th></th>
@@ -66,3 +66,4 @@ table>
 <tr>
 <td><a href="https://twitter.com/SMNtwitt" target="_blank">Twitter</a></td>
 </tr>
+</table>
