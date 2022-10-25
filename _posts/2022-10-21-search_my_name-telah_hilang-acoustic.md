@@ -17,3 +17,53 @@ tags: [ Pop Punk, Punk, Rock ]
 <i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
 </a>
 </div>
+
+<table>
+<tr>
+<th>Informasi</th>
+<th></th>
+</tr>
+<tr>
+<td>Artis</td>
+<td>Search My Name</td>
+</tr>
+<tr>
+<td>Judul</td>
+<td>Baby Sitter</td>
+</tr>
+<tr>
+<td>Genre</td>
+<td>Pop Punk, Punk, Rock</td>
+</tr>
+<tr>
+<td>Asal</td>
+<td>Ciledug, Tangerang</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Tersedia di</th>
+</tr>
+<tr>
+<td><a href="https://www.reverbnation.com/searchmynamepoppunk">Reverbnation</a></td>
+</tr>
+<tr>
+<td><a href="https://myspace.com/searchmynamepunk">Myspace</a></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Media sosial</th>
+</tr>
+<tr>
+<td><a href="https://facebook.com/SearchMyName2008">Facebook</a></td>
+</tr>
+<tr>
+<td><a href="https://www.instagram.com/searchmynamepunk/">Instagram</a></td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/SMNtwitt">Twitter</a></td>
+</tr>
+</table>
