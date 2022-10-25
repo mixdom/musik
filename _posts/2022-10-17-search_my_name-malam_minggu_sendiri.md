@@ -20,6 +20,29 @@ tags: [ Pop Punk, Punk, Rock ]
 
 <table>
 <tr>
+<th>Informasi</th>
+<th></th>
+</tr>
+<tr>
+<td>Artis</td>
+<td>Search My Name</td>
+</tr>
+<tr>
+<td>Judul</td>
+<td>Baby Sitter</td>
+</tr>
+<tr>
+<td>Genre</td>
+<td>Pop Punk, Punk, Rock</td>
+</tr>
+<tr>
+<td>Asal</td>
+<td>Ciledug, Tangerang</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <th>Tersedia di</th>
 </tr>
 <tr>
