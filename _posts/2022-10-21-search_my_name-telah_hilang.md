@@ -18,7 +18,9 @@ tags: [ Pop Punk, Punk, Rock ]
 </a>
 </div>
 
-formasi</th>
+<table>
+<tr>
+<th>Informasi</th>
 <th></th>
 </tr>
 <tr>
