@@ -29,7 +29,7 @@ tags: [ Pop Punk, Punk, Rock ]
 </tr>
 <tr>
 <td>Judul</td>
-<td>Baby Sitter</td>
+<td>Malam Minggu Sendiri</td>
 </tr>
 <tr>
 <td>Genre</td>
