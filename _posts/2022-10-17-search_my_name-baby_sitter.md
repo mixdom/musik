@@ -21,9 +21,10 @@ tags: [ Pop Punk, Punk, Rock ]
 <table>
 <tr>
 <th>Informasi</th>
+<th></th>
 </tr>
 <tr>
-<td>Artis &nbsp;</td>
+<td>Artis</td>
 <td>Search My Name</td>
 </tr>
 <tr>
