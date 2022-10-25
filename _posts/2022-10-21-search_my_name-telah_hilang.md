@@ -18,9 +18,7 @@ tags: [ Pop Punk, Punk, Rock ]
 </a>
 </div>
 
-<table>
-<tr>
-<th>Informasi</th>
+formasi</th>
 <th></th>
 </tr>
 <tr>
@@ -46,10 +44,10 @@ tags: [ Pop Punk, Punk, Rock ]
 <th>Tersedia di</th>
 </tr>
 <tr>
-<td><a href="https://www.reverbnation.com/searchmynamepoppunk">Reverbnation</a></td>
+<td><a href="https://www.reverbnation.com/searchmynamepoppunk" target="_blank">Reverbnation</a></td>
 </tr>
 <tr>
-<td><a href="https://myspace.com/searchmynamepunk">Myspace</a></td>
+<td><a href="https://myspace.com/searchmynamepunk" target="_blank">Myspace</a></td>
 </tr>
 </table>
 
@@ -58,12 +56,12 @@ tags: [ Pop Punk, Punk, Rock ]
 <th>Media sosial</th>
 </tr>
 <tr>
-<td><a href="https://facebook.com/SearchMyName2008">Facebook</a></td>
+<td><a href="https://facebook.com/SearchMyName2008" target="_blank">Facebook</a></td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/searchmynamepunk/">Instagram</a></td>
+<td><a href="https://www.instagram.com/searchmynamepunk" target="_blank">Instagram</a></td>
 </tr>
 <tr>
-<td><a href="https://twitter.com/SMNtwitt">Twitter</a></td>
+<td><a href="https://twitter.com/SMNtwitt" target="_blank">Twitter</a></td>
 </tr>
 </table>
