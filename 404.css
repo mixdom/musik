@@ -31,7 +31,7 @@ body{
 	  animation: type .5s alternate infinite;
 }
 
-.fof a {
+a {
   color: #18272F;
   font-size: 30px;
   display: inline-block;
@@ -39,7 +39,7 @@ body{
   text-decoration: none;
 }
 
-.fof a::before {
+a::before {
   content: '';
   position: absolute;
   width: 100%;
@@ -53,7 +53,7 @@ body{
   transition: transform .3s ease-in-out;
 }
 
-.fof a:hover::before {
+a:hover::before {
   transform-origin: left;
   transform: scaleX(1);
 }
