@@ -1,71 +1,72 @@
 ---
 layout: post
-category: Embedded
-title: VoCore启动成功
-tagline: by Snail
-tags: [vocore, openwrt, embedded]
+category: Hikanyatumus
+title: Hikanyatumus - Tawa dan Luka
+tagline: by MixDom
+tags: [ Hip Hop, Rock, Melodic ]
 ---
-换了个VoCore板之后，VoCore就能正常启动了，顺便测试了一下ssh和ap+sta模式。
+
+<audio class='js-player' style="--plyr-color-main: #212121;" controls>
+<source src="https://drive.google.com/uc?authuser=0&id=1314I40OCWcsJumRSGPakj1ERl9550CFX&export=download" type="audio/mp3">
+</audio>
 
 <!--more-->
 
-#SSH连接#
+<div class="post-button text-center">
+<a class="btn" href="https://drive.google.com/uc?authuser=0&id=1314I40OCWcsJumRSGPakj1ERl9550CFX&export=download">
+<i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
+</a>
+</div>
 
-VoCore连上电源后，等待大约30秒之后，便会有发出一个ssid为VoCore的无加密wifi。连上之后，在浏览器输入192.168.1.1，进入Openwrt的Luci界面。
+<table>
+<tr>
+<th>Informasi</th>
+<th></th>
+</tr>
+<tr>
+<td>Artis</td>
+<td>Hikanyatumus</td>
+</tr>
+<tr>
+<td>Judul</td>
+<td>Tawa dan Luka</td>
+</tr>
+<tr>
+<td>Genre</td>
+<td>Hip Hop, Rock, Melodic</td>
+</tr>
+<tr>
+<td>Asal</td>
+<td>Medan, Sumatera Utara</td>
+</tr>
+</table>
 
-![](http://simpleyyt.qiniudn.com/2014-08-06%2010:17:23%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+<table>
+<tr>
+<th>Tersedia di</th>
+</tr>
+<tr>
+<td><a href="https://www.reverbnation.com/hikanyatumus" target="_blank">Reverbnation</a></td>
+</tr>
+<tr>
+<td><a href="https://myspace.com/hikanyatumus" target="_blank">Myspace</a></td>
+</tr>
+<tr>
+<td><a href="https://music.youtube.com/watch?v=tRWnc3UnSeo" target="_blank">Youtube Music</a></td>
+</tr>
+</table>
 
-用户名为root，密码为vocore，登录进去之后，系统会提示修改密码并开启ssh，按照提示操作之后，打开终端，输入：
-
-    ssh root@192.168.1.1
-    
-输入密码之后，便可以登录进去了。
-
-#STA+AP模式#
-
-根据作者博客介绍，VoCore的STA和AP能够同时工作。首先，开启STA模式，添加下面内容到｀/etc/config/network`。
-
-    config interface wwan
-        option proto 'dhcp'
-	
-然后，修改`/etc/config/wireless`文件：
-
-    config wifi-device  radio0
-    	option type     mac80211
-    	option channel  11
-    	option hwmode	11ng
-    	option path	'10180000.wmac'
-    	list ht_capab	GF
-    	list ht_capab	SHORT-GI-20
-    	list ht_capab	SHORT-GI-40
-    	list ht_capab	RX-STBC1
-    	option htmode	HT20
-    
-    config wifi-iface
-        option device   radio0
-    	option network  lan
-    	option mode     ap
-    	option ssid     VoCore
-    	option encryption none
-    
-    config wifi-iface
-    	option device   radio0
-    	option network  wwan
-    	option mode     sta
-	    option ssid     VongerWifi
-    	option encryption psk2
-    	option key      PasswordForWifi
-
-修改相应ssid与密码即可。
-
-如果，你家的路由是用192.168.1.1作它的IP地址，那么为避免冲突，你必须修改VoCore的IP，修改文件里相应的IP，如192.168.61.1。
-
-    config interface 'lan'
-    	option ifname 'eth0.1'
-    	option type 'bridge'
-    	option proto 'static'
-    	option ipaddr '192.168.61.1'
-    	option netmask '255.255.255.0'
-    	option ip6assign '60'
-    	
-重启连接成功之后，VoCore便可以访问外网了。
+<table>
+<tr>
+<th>Media sosial</th>
+</tr>
+<tr>
+<td><a href="https://facebook.com/Hikanyatumus.ID" target="_blank">Facebook</a></td>
+</tr>
+<tr>
+<td><a href="https://instagram.com/hikanyatumusofficial" target="_blank">Instagram</a></td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/hikanyatumus" target="_blank">Twitter</a></td>
+</tr>
+</table>
