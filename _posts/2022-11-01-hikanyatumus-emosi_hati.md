@@ -51,6 +51,9 @@ tags: [ Hip Hop, Rock, Melodic ]
 <tr>
 <td><a href="https://myspace.com/hikanyatumus" target="_blank">Myspace</a></td>
 </tr>
+<tr>
+<td><a href="https://music.youtube.com/watch?v=Vu7kMcDQqXs" target="_blank">Youtube Music</a></td>
+</tr>
 </table>
 
 <table>
