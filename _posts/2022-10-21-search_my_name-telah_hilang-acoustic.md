@@ -48,9 +48,6 @@ tags: [ Pop Punk, Punk, Rock ]
 <tr>
 <td><a href="https://www.reverbnation.com/searchmynamepoppunk" target="_blank">Reverbnation</a></td>
 </tr>
-<tr>
-<td><a href="https://myspace.com/searchmynamepunk" target="_blank">Myspace</a></td>
-</tr>
 </table>
 
 <table>
