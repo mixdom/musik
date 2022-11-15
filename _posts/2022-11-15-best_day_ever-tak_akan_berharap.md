@@ -48,6 +48,21 @@ tags: [ Alternative, Pop Punk ]
 <tr>
 <td><a href="https://www.reverbnation.com/bestdayeverband" target="_blank">Reverbnation</a></td>
 </tr>
+<tr>
+<td><a href="https://music.youtube.com/playlist?list=OLAK5uy_lpqi1zzmrr3Gza7fyMAhMzRrErQ8lb7WQ" target="_blank">Youtube Music</a></td>
+</tr>
+<tr>
+<td><a href="https://open.spotify.com/track/5oGoUsjJFkzCntnTv4BAmQ" target="_blank">Spotify</a></td>
+</tr>
+<tr>
+<td><a href="https://music.apple.com/us/artist/best-day-ever/1581567926" target="_blank">Apple Music</a></td>
+</tr>
+<tr>
+<td><a href="https://www.kkbox.com/my/en/song/-opwBm-ue7WVLjaZC8" target="_blank">KKBOX</a></td>
+</tr>
+<tr>
+<td><a href="https://music.amazon.in/albums/B09CPYMN1F" target="_blank">Amazon Prime Music</a></td>
+</tr>
 </table>
 
 <table>
@@ -56,5 +71,11 @@ tags: [ Alternative, Pop Punk ]
 </tr>
 <tr>
 <td><a href="http://www.facebook.com/pages/Best-Day-Ever/127561700668678" target="_blank">Facebook</a></td>
+</tr>
+<tr>
+<td><a href="https://instagram.com/bestdayeverband_?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/bde_4" target="_blank">Twitter</a></td>
 </tr>
 </table>
