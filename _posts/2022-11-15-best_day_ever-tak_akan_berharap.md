@@ -32,6 +32,10 @@ tags: [ Alternative, Pop Punk ]
 <td>Tak Akan Berharap</td>
 </tr>
 <tr>
+<td>Album</td>
+<td>Revolutioner</td>
+</tr>
+<tr>
 <td>Genre</td>
 <td>Alternative, Pop Punk</td>
 </tr>
