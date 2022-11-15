@@ -57,4 +57,10 @@ tags: [ Alternative, Pop Punk ]
 <tr>
 <td><a href="http://www.facebook.com/pages/Best-Day-Ever/127561700668678" target="_blank">Facebook</a></td>
 </tr>
+<tr>
+<td><a href="https://instagram.com/bestdayeverband_?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/bde_4" target="_blank">Twitter</a></td>
+</tr>
 </table>
