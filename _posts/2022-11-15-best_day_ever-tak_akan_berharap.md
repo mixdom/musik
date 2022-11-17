@@ -50,19 +50,16 @@ tags: [ Alternative, Pop Punk ]
 <th>Tersedia di</th>
 </tr>
 <tr>
-<td><a href="https://www.reverbnation.com/bestdayeverband" target="_blank">Reverbnation</a></td>
-</tr>
-<tr>
 <td><a href="https://music.youtube.com/playlist?list=OLAK5uy_lpqi1zzmrr3Gza7fyMAhMzRrErQ8lb7WQ" target="_blank">Youtube Music</a></td>
 </tr>
 <tr>
-<td><a href="https://open.spotify.com/track/5oGoUsjJFkzCntnTv4BAmQ" target="_blank">Spotify</a></td>
+<td><a href="https://open.spotify.com/album/6IqDGh6Ruotug88fzIP0bs" target="_blank">Spotify</a></td>
 </tr>
 <tr>
 <td><a href="https://music.apple.com/us/artist/best-day-ever/1581567926" target="_blank">Apple Music</a></td>
 </tr>
 <tr>
-<td><a href="https://www.kkbox.com/my/en/song/-opwBm-ue7WVLjaZC8" target="_blank">KKBOX</a></td>
+<td><a href="https://www.kkbox.com/my/en/album/CsC_0A0f0h_RnbJ54F" target="_blank">KKBOX</a></td>
 </tr>
 <tr>
 <td><a href="https://music.amazon.in/albums/B09CPYMN1F" target="_blank">Amazon Prime Music</a></td>
