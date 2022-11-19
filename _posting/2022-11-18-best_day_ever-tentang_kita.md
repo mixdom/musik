@@ -6,21 +6,11 @@ tagline: by MixDom
 tags: [ Alternative, Pop Punk ]
 ---
 
-![best]
-(https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
+![best](https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
 
 <!--more-->
 
-![best]
-(https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
-
-# Google Maglev 工作流程
-
-![Google Maglev 工作流程](https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
-
-每个 Google 服务都有一个或者多个 VIP，一个 VIP 和物理 IP 的区别在于 VIP 没有绑给某个特定的网卡。
-
-**VIP 宣告：**
+![best](https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
 
 <audio class='js-player' style="--plyr-color-main: #212121;" controls>
 <source src="https://drive.google.com/uc?authuser=0&id=1BFPIr5FsNA06dZwxdV95ISgN5-Ssa9fX&export=download" type="audio/mp3">
