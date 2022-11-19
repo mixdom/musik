@@ -12,8 +12,6 @@ tags: [ Alternative, Pop Punk ]
 
 <!--more-->
 
-![best](https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
-
 <div class="post-button text-center">
 <a class="btn" href="https://drive.google.com/uc?authuser=0&id=1BFPIr5FsNA06dZwxdV95ISgN5-Ssa9fX&export=download">
 <i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
