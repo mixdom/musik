@@ -1,19 +1,19 @@
 title:
   archive: Arsip
-  category: Kategori
-  tag: Tag
-  archives: Arsip
+  category: Musisi/Band
+  tag: Genre
+  archives: Semua Lagu
   categories: Kategori
-  tags: Tags
+  tags: Genres
   about: Tentang
 
 author: Penulis
 
 menu:
   home: Beranda
-  archives: Arsip
-  categories: Kategori
-  tags: Tags
+  archives: Semua Lagu
+  categories: Musisi/Band
+  tags: Genres
   about: Tentang
   search: Pencarian
 
@@ -41,7 +41,7 @@ post:
 
 page:
   totally: Total
-  tags: tags
+  tags: genres
 
 footer:
   powered: "Powered by %s"
@@ -51,12 +51,12 @@ counter:
   tag_cloud:
     zero: Tidak ada tags
     one: 1 total tag
-    other: "%d total tags"
+    other: "%d total genres"
 
   categories:
     zero: Tidak ada kategori
     one: 1 total categori
-    other: "%d total kategori"
+    other: "%d total Musisi/Band"
 
   archive_posts:
     zero: Tidak ada posting.
@@ -66,8 +66,8 @@ counter:
 state:
   posts: posting
   pages: halaman
-  tags: tags
-  categories: kategori
+  tags: genres
+  categories: musisi/band
 
 cheers:
   um: Um..
