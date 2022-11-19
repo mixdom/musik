@@ -61,7 +61,7 @@ counter:
   archive_posts:
     zero: Tidak ada posting.
     one: 1 posting.
-    other: "%d total posting."
+    other: "%d total lagu."
 
 state:
   posts: posting
@@ -77,7 +77,7 @@ cheers:
   great: Besar
   excellent: Baik
 
-keep_on: Terus Posting.
+keep_on: (:
 
 symbol:
   comma: ', '
