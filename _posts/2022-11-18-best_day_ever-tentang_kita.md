@@ -6,6 +6,7 @@ tagline: by MixDom
 tags: [ Alternative, Pop Punk ]
 ---
 
+![best]
 (https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
 
 <!--more-->
