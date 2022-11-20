@@ -18,8 +18,6 @@ tags: [ Alternative, Pop Punk ]
 </a>
 </div>
 
-<script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="mix_dom/4" data-width="100%"></script>
-
 <table>
 <tr>
 <th>Informasi</th>
