@@ -13,7 +13,7 @@ tags: [ Alternative, Pop Punk ]
 <!--more-->
 
 <div class="post-button text-center">
-<a class="btn" href="https://drive.google.com/uc?authuser=0&id=1EjpWTHNBxZ0s_gUQkp4YGzCiUR7qO55Z&export=download">
+<a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=1EjpWTHNBxZ0s_gUQkp4YGzCiUR7qO55Z&export=download">
 <i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
 </a>
 </div>
