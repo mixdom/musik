@@ -13,7 +13,7 @@ tags: [ Pop Punk, Punk ]
 <!--more-->
 
 <div class="post-button text-center">
-<a class="btn" href="https://drive.google.com/uc?authuser=0&id=16g-5Y7QXCANLg_Cq9z0UGpBQcT2petqU&export=download">
+<a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=16g-5Y7QXCANLg_Cq9z0UGpBQcT2petqU&export=download">
 <i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
 </a>
 </div>
