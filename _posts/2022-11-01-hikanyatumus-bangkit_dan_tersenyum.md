@@ -13,7 +13,7 @@ tags: [ Hip Hop, Rock, Melodic ]
 <!--more-->
 
 <div class="post-button text-center">
-<a class="btn" href="https://drive.google.com/uc?authuser=0&id=108M6m3PBRa6HGo_dCX4_aoMXbNPdX1H4&export=download">
+<a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=108M6m3PBRa6HGo_dCX4_aoMXbNPdX1H4&export=download">
 <i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
 </a>
 </div>
