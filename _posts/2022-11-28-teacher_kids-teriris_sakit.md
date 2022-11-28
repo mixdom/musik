@@ -43,15 +43,6 @@ tags: [ Alternative, Easycore, Hardcore, Pop Punk, Rock ]
 
 <table>
 <tr>
-<th>Tersedia di</th>
-</tr>
-<tr>
-<td><a href="" target="_blank"></a></td>
-</tr>
-</table>
-
-<table>
-<tr>
 <th>Media sosial</th>
 </tr>
 <tr>
