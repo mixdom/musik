@@ -32,10 +32,6 @@ tags: [ Alternative, Easycore, Hardcore, Pop Punk, Rock ]
 <td>Hidup Bebas</td>
 </tr>
 <tr>
-<td>Album</td>
-<td>2017 - EP</td>
-</tr>
-<tr>
 <td>Genre</td>
 <td>Alternative, Easycore, Hardcore, Pop Punk, Rock</td>
 </tr>
