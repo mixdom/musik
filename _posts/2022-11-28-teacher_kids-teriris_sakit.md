@@ -3,7 +3,7 @@ layout: post
 category: Teacher Kids
 title: Teacher Kids - Teriris Sakit
 tagline: by MixDom
-tags: [ Alternative, Easycore, Hardcore, Pop Punk, Rock ]
+tags: [ Alternative, Easycore, Hardcore, Indie, Pop Punk, Rock ]
 ---
 
 <audio class='js-player' style="--plyr-color-main: #212121;" controls>
@@ -33,7 +33,7 @@ tags: [ Alternative, Easycore, Hardcore, Pop Punk, Rock ]
 </tr>
 <tr>
 <td>Genre</td>
-<td>Alternative, Easycore, Hardcore, Pop Punk, Rock</td>
+<td>Alternative, Easycore, Hardcore, Indie, Pop Punk, Rock</td>
 </tr>
 <tr>
 <td>Asal</td>
