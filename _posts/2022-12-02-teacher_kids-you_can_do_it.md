@@ -33,7 +33,7 @@ tags: [ Alternative, Easycore, Hardcore, Indie, Pop Punk, Rock ]
 </tr>
 <tr>
 <td>Album</td>
-<td>End Of an Era</td>
+<td>End Of an Era - EP</td>
 </tr>
 <tr>
 <td>Genre</td>
