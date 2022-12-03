@@ -29,7 +29,7 @@ tags: [ Alternative, Pop Punk ]
 </tr>
 <tr>
 <td>Judul</td>
-<td>Lupakan (Cerita dan Kenangan)</td>
+<td>Lupakan (Cerita & Kenangan)</td>
 </tr>
 <tr>
 <td>Genre</td>
