@@ -2,18 +2,18 @@ title:
   archive: Arsip
   category: Musisi/Band
   tag: Genre
-  archives: Semua Lagu
+  archives: Semua Musik
   categories: Musisi/Band
-  tags: Genres
+  tags: Genre
   about: Tentang
 
 author: Penulis
 
 menu:
   home: Beranda
-  archives: Semua Lagu
+  archives: Semua Musik
   categories: Musisi/Band
-  tags: Genres
+  tags: Genre
   about: Tentang
   search: Pencarian
 
@@ -41,7 +41,7 @@ post:
 
 page:
   totally: Total
-  tags: genres
+  tags: genre
 
 footer:
   powered: "Powered by %s"
@@ -49,24 +49,24 @@ footer:
 
 counter:
   tag_cloud:
-    zero: Tidak ada tags
-    one: 1 total tag
-    other: "%d total genres"
+    zero: Tidak ada genre
+    one: 1 total genre
+    other: "%d total genre"
 
   categories:
-    zero: Tidak ada kategori
-    one: 1 total categori
+    zero: Tidak ada Musisi/Band
+    one: 1 total Musisi/Band
     other: "%d total Musisi/Band"
 
   archive_posts:
-    zero: Tidak ada posting.
-    one: 1 posting.
-    other: "%d total lagu."
+    zero: Tidak ada musik.
+    one: 1 musik.
+    other: "%d total musik."
 
 state:
   posts: posting
   pages: halaman
-  tags: genres
+  tags: genre
   categories: musisi/band
 
 cheers:
