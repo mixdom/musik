@@ -1,7 +1,7 @@
 ---
 layout: post
 category: As Far As
-title: As Far As - One Day
+title: As Far As - One Day (Acoustic)
 tagline: by MixDom
 tags: [ Pop Punk, Punk ]
 ---
@@ -29,7 +29,7 @@ tags: [ Pop Punk, Punk ]
 </tr>
 <tr>
 <td>Judul</td>
-<td>One Day</td>
+<td>One Day (Acoustic)</td>
 </tr>
 <tr>
 <td>Genre</td>
