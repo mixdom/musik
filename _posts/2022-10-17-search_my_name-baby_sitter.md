@@ -6,11 +6,13 @@ tagline: by MixDom
 tags: [ Pop Punk, Punk, Rock ]
 ---
 
+![contohgambar](https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
+
+<!--more-->
+
 <audio class='js-player' style="--plyr-color-main: #212121;" controls>
 <source src="https://drive.google.com/uc?authuser=0&id=1rbqS-6XRlVeBErqZOKKqZCZkqTDro6JO&export=download" type="audio/mp3">
 </audio>
-
-<!--more-->
 
 <div class="post-button text-center">
 <a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=1rbqS-6XRlVeBErqZOKKqZCZkqTDro6JO&export=download">
