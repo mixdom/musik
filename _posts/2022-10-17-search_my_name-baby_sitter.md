@@ -6,13 +6,11 @@ tagline: by MixDom
 tags: [ Pop Punk, Punk, Rock ]
 ---
 
-![contohgambar](https://1.bp.blogspot.com/-IbADO-Zx6So/X_2HrGGzQFI/AAAAAAAACCk/siAL86d_UUYp_aB9oX8DjiOTBZow_7TZQCLcBGAsYHQ/s16000/25%2Bnice%2Bblog%2Bmembayar%2Bmahal.png)
-
-<!--more-->
-
 <audio class='js-player' style="--plyr-color-main: #212121;" controls>
 <source src="https://drive.google.com/uc?authuser=0&id=1rbqS-6XRlVeBErqZOKKqZCZkqTDro6JO&export=download" type="audio/mp3">
 </audio>
+
+<!--more-->
 
 <div class="post-button text-center">
 <a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=1rbqS-6XRlVeBErqZOKKqZCZkqTDro6JO&export=download">
