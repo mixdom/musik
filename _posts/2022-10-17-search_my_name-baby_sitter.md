@@ -6,7 +6,7 @@ tagline: by MixDom
 tags: [ Pop Punk, Punk, Rock ]
 ---
 
-![contohgambar](https://nos.netease.com/knowledge/3db49483-ce09-4384-9eec-4963db7c0950)
+![contohgambar](https://1.bp.blogspot.com/-IbADO-Zx6So/X_2HrGGzQFI/AAAAAAAACCk/siAL86d_UUYp_aB9oX8DjiOTBZow_7TZQCLcBGAsYHQ/s16000/25%2Bnice%2Bblog%2Bmembayar%2Bmahal.png)
 
 <!--more-->
 
