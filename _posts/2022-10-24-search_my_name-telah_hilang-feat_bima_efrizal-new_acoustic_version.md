@@ -3,7 +3,7 @@ layout: post
 category: Search My Name
 title: Search My Name - Telah Hilang (feat. Bima Efrizal) (New Acoustic Version)
 tagline: by MixDom
-tags: [ Pop Punk, Punk, Rock ]
+tags: [ Pop, Pop Punk, Punk, Rock ]
 ---
 
 <audio class='js-player' style="--plyr-color-main: #212121;" controls>
@@ -33,7 +33,7 @@ tags: [ Pop Punk, Punk, Rock ]
 </tr>
 <tr>
 <td>Genre</td>
-<td>Pop Punk, Punk, Rock</td>
+<td>Pop, Pop Punk, Punk, Rock</td>
 </tr>
 <tr>
 <td>Asal</td>
