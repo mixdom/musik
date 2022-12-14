@@ -51,6 +51,12 @@ tags: [ Hip Hop, Rock, Melodic ]
 <tr>
 <td><a href="https://music.youtube.com/watch?v=jl8wLJgYmdE" target="_blank">Youtube Music</a></td>
 </tr>
+<tr>
+<td><a href="https://music.apple.com/id/album/hikanyatumus-single/1652629639" target="_blank">Apple Music</a></td>
+</tr>
+<tr>
+<td><a href="https://open.spotify.com/album/07AITF8PuPuXTSD1V9R9XW" target="_blank">Spotify</a></td>
+</tr>
 </table>
 
 <table>
