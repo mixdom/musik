@@ -59,9 +59,9 @@ counter:
     other: "%d total Musisi/Band"
 
   archive_posts:
-    zero: Tidak ada musik.
-    one: 1 musik.
-    other: "%d total musik."
+    zero: Tidak ada lagu.
+    one: 1 lagu.
+    other: "%d total lagu."
 
 state:
   posts: posting
