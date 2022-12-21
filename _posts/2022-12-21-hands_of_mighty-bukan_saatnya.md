@@ -57,6 +57,9 @@ tags: [ Alternative, Easycore, Post-Hardcore, Rock ]
 <tr>
 <td><a href="https://music.amazon.com/artists/B09HSFF25N/hands-of-mighty" target="_blank">Amazon Prime Music</a></td>
 </tr>
+<tr>
+<td><a href="https://www.deezer.com/id/artist/147651892?deferredFl=1" target="_blank">Deezer</a></td>
+</tr>
 </table>
 
 <table>
