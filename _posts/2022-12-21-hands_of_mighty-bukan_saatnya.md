@@ -49,6 +49,9 @@ tags: [ Alternative, Easycore, Post-Hardcore, Rock ]
 <td><a href="https://www.reverbnation.com/handsofmightyofficial" target="_blank">Reverbnation</a></td>
 </tr>
 <tr>
+<td><a href="https://music.youtube.com/channel/UCIiAd8nSqQdfZEQgsRLbuCQ" target="_blank">Youtube Music</a></td>
+</tr>
+<tr>
 <td><a href="https://music.apple.com/md/artist/hands-of-mighty/1589021044" target="_blank">Apple Music</a></td>
 </tr>
 <tr>
