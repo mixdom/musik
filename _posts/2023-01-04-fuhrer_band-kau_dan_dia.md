@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Fuhrer Band
-title: Fuhrer Band
+title: Fuhrer Band - Kau dan Dia
 tagline: by MixDom
 tags: [ Alternative Rock, Hip Rock, Rock ]
 ---
