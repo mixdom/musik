@@ -48,9 +48,6 @@ tags: [ Punk Rock, Rock ]
 <tr>
 <td><a href="https://www.reverbnation.com/thefrustaters" target="_blank">Reverbnation</a></td>
 </tr>
-<tr>
-<td><a href="https://soundcloud.com/thefrustaters" target="_blank">SoundCloud</a></td>
-</tr>
 </table>
 
 <table>
