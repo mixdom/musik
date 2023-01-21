@@ -10,7 +10,7 @@ tags: [ Punk Rock, Rock ]
 <source src="https://drive.google.com/uc?authuser=0&id=1JsaCJfAcK0Sng9WrStK4KrY1VAhg6SRE&export=download" type="audio/mp3">
 </audio>
 
-<!--more-->https://drive.google.com/file/d//view?usp=drivesdk
+<!--more-->
 
 <div class="post-button text-center">
 <a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=1JsaCJfAcK0Sng9WrStK4KrY1VAhg6SRE&export=download">
