@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Hikanyatumus
+category: Slampunk
 title: Slampunk - I Miss You
 tagline: by MixDom
 tags: [ Punk, Punk Rock ]
