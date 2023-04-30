@@ -60,4 +60,7 @@ tags: [ Alternative, Pop Punk ]
 <tr>
 <td><a href="https://www.instagram.com/pompoppunk" target="_blank">Instagram</a></td>
 </tr>
+<tr>
+<td><a href="https://twitter.com/POM_poppunk" target="_blank">Twitter</a></td>
+</tr>
 </table>
