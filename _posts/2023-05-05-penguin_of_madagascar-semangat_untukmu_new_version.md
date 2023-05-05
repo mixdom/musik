@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Penguin of Madagascar
-title: Penguin of Madagascar - Semangat Untukmu
+title: Penguin of Madagascar - Semangat Untukmu (New Version)
 tagline: by MixDom
 tags: [ Alternative, Pop Punk ]
 ---
@@ -29,7 +29,7 @@ tags: [ Alternative, Pop Punk ]
 </tr>
 <tr>
 <td>Judul</td>
-<td>Semangat Untukmu</td>
+<td>Semangat Untukmu (New Version)</td>
 </tr>
 <tr>
 <td>Genre</td>
