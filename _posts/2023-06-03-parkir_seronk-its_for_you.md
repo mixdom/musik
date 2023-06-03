@@ -10,7 +10,7 @@ tags: [ Alternative, Pop, Rock ]
 <source src="https://drive.google.com/uc?authuser=0&id=10XgvWC1dYT2O33v6IZ-0Vx8eaY-E2oOq&export=download" type="audio/mp3">
 </audio>
 
-<!--more-->10XgvWC1dYT2O33v6IZ-0Vx8eaY-E2oOq
+<!--more-->
 
 <div class="post-button text-center">
 <a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=10XgvWC1dYT2O33v6IZ-0Vx8eaY-E2oOq&export=download">
