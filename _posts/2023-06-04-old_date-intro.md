@@ -18,6 +18,9 @@ tags: [ Blues, Melodic, Punk ]
 </a>
 </div>
 
+### Lirik lagu
+> Are you ready?
+
 <table>
 <tr>
 <th>Informasi</th>
