@@ -3,7 +3,7 @@ layout: post
 category: Kirawan
 title: Kirawan - Sementara Waktu
 tagline: by MixDom
-tags: [ ]
+tags: [ Pop ]
 ---
 
 <audio class='js-player' style="--plyr-color-main: #212121;" controls>
@@ -33,7 +33,7 @@ tags: [ ]
 </tr>
 <tr>
 <td>Genre</td>
-<td></td>
+<td>Pop</td>
 </tr>
 <tr>
 <td>Asal</td>
