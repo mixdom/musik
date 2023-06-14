@@ -18,6 +18,53 @@ tags: [ Alternative, Pop Punk ]
 </a>
 </div>
 
+> ### Lirik lagu
+
+Sungguh ku tak meduga <br />
+Kau hanya manis pertama <br />
+Yang membuatku terluka <br />
+Salahkah diri ini <br />
+Memang tak pantas untukku <br />
+Selamat tinggal oh sayangku
+
+Hari ke hari ku tunggu dirimu <br />
+Siang dan malam membayangkan wajahmu <br />
+Ku berharap cepat engkaulah datang <br />
+Tak sabar ku menunggu kehadiran dirimu
+
+Ku berharap padamu <br />
+Agar setia padaku
+
+Tetapi ternyata engkau telah sirna <br />
+Kau pergi jauh meninggalkan diriku <br />
+Yang selama ini tak pernah kuduga
+
+Sungguh ku tak menduga <br />
+Kau hanya manis pertama <br >
+Yang membuatku terluka <br />
+Salahkah diri ini <br />
+Memang tak pantas untukku <br />
+Selamat tinggal oh sayangku
+
+Tetapi ternyata engkau telah sirna <br />
+Kau pergi jauh meninggalkan diriku <br />
+Yang selama ini tak pernah kuduga
+
+Sungguh ku tak menduga <br />
+Kau hanya manis pertama <br />
+Yang membuatku terluka <br />
+Salahkah diri ini <br />
+Memang tak pantas untukku <br />
+Selamat tinggal oh sayangku
+
+Sungguh ku tak menduga <br />
+Kau hanya manis pertama <br />
+Yang membuatku terluka <br />
+Salahkah diri ini <br />
+Memang tak pantas untukku <br />
+Selamat tinggal oh sayangku <br />
+Selamat tinggal oh sayangku
+
 <table>
 <tr>
 <th>Informasi</th>
