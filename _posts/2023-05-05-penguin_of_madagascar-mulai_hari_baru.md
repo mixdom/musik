@@ -20,37 +20,37 @@ tags: [ Alternative, Pop Punk ]
 
 > ### Lirik lagu
 
-Mulai kita buka hari-hari baru
-Disaat semuanya mulai beranjak hilang
-Dan disaat perlahan-lahan harapan mulai tenggelam
+Mulai kita buka hari-hari baru <br />
+Disaat semuanya mulai beranjak hilang <br />
+Dan disaat perlahan-lahan harapan mulai tenggelam <br />
 Apakah semua ini takkan abadi untuk selamanya
 
-Tak mungkinkah yang dulu, telah bersinar
-Kini menjadi redup kembali
-Bagai tak mengerti
+Tak mungkinkah yang dulu, telah bersinar <br />
+Kini menjadi redup kembali <br />
+Bagai tak mengerti <br />
 Arti hidup dan harapan ini, ini
 
-Dan mencoba beranjak
-Hingga kembali bersinar
-Dan tak ingin kembali
-Terjatuh kedua kalinya
+Dan mencoba beranjak <br />
+Hingga kembali bersinar <br />
+Dan tak ingin kembali <br />
+Terjatuh kedua kalinya <br />
 Hingga akhir nanti bersamamu
 
-Tak mungkin kah yang dulu, telah bersinar
-Kini menjadi redup kembali
-Bagai tak mengerti
+Tak mungkin kah yang dulu, telah bersinar <br />
+Kini menjadi redup kembali <br />
+Bagai tak mengerti <br />
 Arti hidup dan harapan ini, ini
 
-Dan mencoba beranjak
-Hingga kembali bersinar
-Dan tak ingin kembali
-Terjatuh kedua kalinya
+Dan mencoba beranjak <br />
+Hingga kembali bersinar <br />
+Dan tak ingin kembali <br />
+Terjatuh kedua kalinya <br />
 Hingga akhir nanti bersamamu
 
-(Dan mencoba beranjak
-Hingga kembali bersinar
-Dan tak ingin kembali)
-Terjatuh kedua kalinya
+(Dan mencoba beranjak <br />
+Hingga kembali bersinar <br />
+Dan tak ingin kembali) <br />
+Terjatuh kedua kalinya <br />
 Hingga akhir nanti bersamamu
 
 <table>
