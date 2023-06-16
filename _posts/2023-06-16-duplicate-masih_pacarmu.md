@@ -1,7 +1,6 @@
 ---
 layout: post
 category: Duplicate, test
-category: anime
 title: Duplicate - Masih Pacarmu
 tagline: by MixDom
 tags: [ Melayu, Pop ]
@@ -11,7 +10,7 @@ tags: [ Melayu, Pop ]
 <source src="https://drive.google.com/uc?authuser=0&id=1DutgMbYONB3pqb2oB8qTabncf0bkM-uM&export=download" type="audio/mp3">
 </audio>
 
-<!--more-->1DutgMbYONB3pqb2oB8qTabncf0bkM-uM
+<!--more-->
 
 <div class="post-button text-center">
 <a target="_blank" class="btn" href="https://drive.google.com/uc?authuser=0&id=1DutgMbYONB3pqb2oB8qTabncf0bkM-uM&export=download">
