@@ -18,6 +18,12 @@ tags: [ Beatdown, Pop Punk, Punk ]
 </a>
 </div>
 
+<div class="post-button text-center">
+<a target="_blank" class="btn" href="http://shortlink.up.railway.app/97UFF">
+<i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp; &nbsp;Download
+</a>
+</div>
+
 <table>
 <tr>
 <th>Informasi</th>
