@@ -33,7 +33,7 @@ tags: [ Easycore, Pop Punk, Rock ]
 </tr>
 <tr>
 <td>Genre</td>
-<td>Easycore, Pop Punk, Rock</td>
+<td><a href="/tag/#/Easycore">Easycore</a>, <a href="/tag/#/Pop%20Punk">Pop Punk</a>, <a href="/tag/#/Rock">Rock</a></td>
 </tr>
 <tr>
 <td>Asal</td>
