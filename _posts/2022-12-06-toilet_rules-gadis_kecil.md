@@ -18,6 +18,45 @@ tags: [ Easycore, Pop Punk, Rock ]
 </a>
 </div>
 
+> ### Lirik Lagu
+
+Di sini ku berdiri <br />
+Takkan ada lagi yang bisa buatku tersenyum kembali <br />
+Tak ada habisnya pikirkan dirimu <br />
+Tak sanggup ku lupakan semua itu
+
+Ku ingin dirimu selalu ada di sampingku selamanya <br />
+Takkan mampu lupakanmu
+ 
+Ku melompat dan berlari <br />
+Bersama diwaktu itu <br />
+Ku tertawa dikala sedih <br />
+Mengingat masa laluku
+ 
+Kini ku mencoba tuk raih dirimu <br />
+Agar kau kembali pada diriku <br />
+Tak peduli semua yang menghalangiku <br />
+Sungguh ku tak sanggup tanpa dirimu
+
+Ku ingin dirimu selalu ada di sampingku selamanya <br />
+Takkan mampu lupakanmu
+ 
+Ku melompat dan berlari <br />
+Bersama diwaktu itu <br />
+Ku tertawa dikala sedih <br />
+Mengingat masa laluku
+ 
+Ku ingin dirimu selalu ada disampingku selamanya <br />
+Takkan mampu lupakanmu
+
+Ku melompat dan berlari <br />
+Bersama diwaktu itu <br />
+Ku tertawa dikala sedih <br />
+Mengingat masa laluku <br />
+ 
+Kembalilah gadis kecilku <br />
+Kembalilah gadis kecil
+
 <table>
 <tr>
 <th>Informasi</th>
