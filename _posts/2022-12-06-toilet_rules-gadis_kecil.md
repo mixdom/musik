@@ -18,7 +18,7 @@ tags: [ Easycore, Pop Punk, Rock ]
 </a>
 </div>
 
-> ### Lirik Lagu
+> ### Lirik lagu
 
 Di sini ku berdiri <br />
 Takkan ada lagi yang bisa buatku tersenyum kembali <br />
