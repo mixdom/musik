@@ -33,7 +33,7 @@ tags: [ Alternative, Pop Punk ]
 </tr>
 <tr>
 <td>Genre</td>
-<td>Alternative, Pop Punk</td>
+<td><a href="/tag/#/Alternative">Alternative</a>, <a href="/tag/#/Pop%20Punk">Pop Punk</a></td>
 </tr>
 <tr>
 <td>Asal</td>
