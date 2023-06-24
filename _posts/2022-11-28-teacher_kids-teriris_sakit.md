@@ -33,7 +33,7 @@ tags: [ Alternative, Easycore, Hardcore, Indie, Pop Punk, Rock ]
 </tr>
 <tr>
 <td>Genre</td>
-<td>Alternative, Easycore, Hardcore, Indie, Pop Punk, Rock</td>
+<td><a href="/tag/#/Alternative">Alternative</a>, <a href="/tag/#/Easycore">Easycore</a>, <a href="/tag/#/Hardcore">Hardcore</a>, <a href="/tag/#/Indie">Indie</a>, <a href="/tag/#/Pop%20Punk">Pop Punk</a>, <a href="/tag/#/Rock">Rock</a></td>
 </tr>
 <tr>
 <td>Asal</td>
