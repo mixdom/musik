@@ -33,7 +33,7 @@ tags: [ Punk ]
 </tr>
 <tr>
 <td>Genre</td>
-<td><a href="/tag/#/Punk">Punk</a></td>
+<td><a href="/musik/tag/#/Punk">Punk</a></td>
 </tr>
 <tr>
 <td>Asal</td>
