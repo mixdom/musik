@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Hands of Mighty
+category: Hands of Mighty test
 title: Hands of Mighty - Roadkill
 tagline: by MixDom
 tags: [ Alternative, Easycore, Post-Hardcore, Rock ]
