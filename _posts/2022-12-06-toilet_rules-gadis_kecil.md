@@ -72,7 +72,7 @@ Kembalilah gadis kecil
 </tr>
 <tr>
 <td>Genre</td>
-<td><a href="/tag/#/Easycore">Easycore</a>, <a href="/tag/#/Pop%20Punk">Pop Punk</a>, <a href="/tag/#/Rock">Rock</a></td>
+<td><a href="/musik/tag/#/Easycore">Easycore</a>, <a href="/musik/tag/#/Pop%20Punk">Pop Punk</a>, <a href="/musik/tag/#/Rock">Rock</a></td>
 </tr>
 <tr>
 <td>Asal</td>
