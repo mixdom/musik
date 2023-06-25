@@ -33,7 +33,7 @@ tags: [ Alternative, Emotional Melodic Punk ]
 </tr>
 <tr>
 <td>Genre</td>
-<td><a href="/tag/#/Alternative">Alternative</a>, <a href="/tag/#/Emotional%20Melodic%20Punk">Emotional Melodic Punk</a></td>
+<td><a href="/musik/tag/#/Alternative">Alternative</a>, <a href="/musik/tag/#/Emotional%20Melodic%20Punk">Emotional Melodic Punk</a></td>
 </tr>
 <tr>
 <td>Asal</td>
