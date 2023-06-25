@@ -33,7 +33,7 @@ tags: [ Hip Hop, Melodic, Rock ]
 </tr>
 <tr>
 <td>Genre</td>
-<td><a href="/tag/#/Hip%20Hop">Hip Hop</a>, <a href="/tag/#/Melodic">Melodic</a>, <a href="/tag/#/Rock">Rock</a></td>
+<td><a href="/musik/tag/#/Hip%20Hop">Hip Hop</a>, <a href="/musik/tag/#/Melodic">Melodic</a>, <a href="/musik/tag/#/Rock">Rock</a></td>
 </tr>
 <tr>
 <td>Asal</td>
