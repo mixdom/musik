@@ -33,7 +33,7 @@ tags: [ Pop Punk, Punk ]
 </tr>
 <tr>
 <td>Genre</td>
-<td><a href="/tag/#/Pop%20Punk">Pop Punk</a>, <a href="/tag/#/Punk">Punk</a></td>
+<td><a href="/musik/tag/#/Pop%20Punk">Pop Punk</a>, <a href="/musik/tag/#/Punk">Punk</a></td>
 </tr>
 <tr>
 <td>Asal</td>
