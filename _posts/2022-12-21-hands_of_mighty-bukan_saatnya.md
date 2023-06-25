@@ -33,9 +33,9 @@ tags: [ Alternative, Easycore, Post-Hardcore, Rock ]
 </tr>
 <tr>
 <td>Genre</td>
-<td><a href="/musik/tag/#/Alternative">Alternative</a></td>
-<td><a href="/musik/tag/#/Easycore">Easycore</a></td>
-<td><a href="/musik/tag/#/Post-Hardcore">Post-Hardcore</a></td>
+<td><a href="/musik/tag/#/Alternative">Alternative</a>, </td>
+<td><a href="/musik/tag/#/Easycore">Easycore</a>, </td>
+<td><a href="/musik/tag/#/Post-Hardcore">Post-Hardcore</a>, </td>
 <td><a href="/musik/tag/#/Rock">Rock</a></td>
 </tr>
 <tr>
