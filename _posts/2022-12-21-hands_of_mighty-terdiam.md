@@ -33,7 +33,7 @@ tags: [ Alternative, Easycore, Post-Hardcore, Rock ]
 </tr>
 <tr>
 <td>Genre</td>
-<td>Alternative, Easycore, Post-Hardcore, Rock</td>
+<td><a href="/musik/tag/#/Alternative">Alternative</a>, <a href="/musik/tag/#/Easycore">Easycore</a>, <a href="/musik/tag/#/Post-Hardcore">Post-Hardcore</a>, <a href="/musik/tag/#/Rock">Rock</a></td>
 </tr>
 <tr>
 <td>Asal</td>
