@@ -33,7 +33,7 @@ tags: [ Pop, Pop Punk, Melodic ]
 </tr>
 <tr>
 <td>Genre</td>
-<td>Pop, Pop Punk, Melodic</td>
+<td><a href="/musik/tag/#/Pop">Pop</a>, <a href="/musik/tag/#/Pop%20Punk">Pop Punk</a>, <a href="/musik/tag/#/Melodic">Melodic</a></td>
 </tr>
 <tr>
 <td>Asal</td>
